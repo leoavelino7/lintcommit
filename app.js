@@ -1,1 +1,1 @@
-console.log('testing CI in Github Actions')
+console.log('testing CI in Github Actions!!! =D')
